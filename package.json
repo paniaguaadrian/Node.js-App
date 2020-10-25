@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "This is a Node.js App to test my skills with data and express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paniaguaadrian/Node.js-App.git"
+  },
+  "author": "Adrián Paniagua Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paniaguaadrian/Node.js-App/issues"
+  },
+  "homepage": "https://github.com/paniaguaadrian/Node.js-App#readme"
+}
